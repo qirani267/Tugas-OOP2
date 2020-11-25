@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Uas_oop2_Suro_Berlian"
